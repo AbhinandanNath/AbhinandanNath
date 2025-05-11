@@ -1,10 +1,11 @@
 👋 Hi, I’m @AbhinandanNath  
 - 👀 I’m interested in front-end development, UI architecture, and building scalable web applications  
-- 🌱 I’m currently learning system design and exploring full-stack development with Node.js and cloud technologies  
+- 🌱 I’m currently diving deeper into design systems, performance optimization, and advanced React patterns  
 - 💞️ I’m looking to collaborate on React-based projects, design systems, or anything that improves developer productivity  
 - 📫 How to reach me: abhi.nath120@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhinandan-nath-92b9ba185)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love cooking, traveling, and I’ve led a 12-member dev team in modernizing a FinTech product  
+
 
 
 <!---
